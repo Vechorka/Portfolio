@@ -1,8 +1,8 @@
 import React from "react";
-import classes from './Header.module.css'
+import classes from './Nav.module.css'
 
-export const Header = () => {
-    return <div className={classes.header}>
+export const Nav = () => {
+    return <div className={classes.nav}>
         <nav>
             <ul>
                 <li><a href="">Main</a></li>
