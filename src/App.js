@@ -5,8 +5,8 @@ import React from "react";
 
 function App() {
   return (
-    <div className={classes.App}>
-    <Header/>
+    <div >
+      <Header/>
     </div>
   );
 }
