@@ -1,0 +1,24 @@
+.main {
+    height: 100vh;
+    background-color: rosybrown;
+}
+
+.container {
+    margin: 0 auto;
+    border: 1px solid black;
+    height: 100%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+}
+
+.aboutMe {
+    width: 300px;
+    border: 1px solid red;
+}
+
+.photo {
+    width: 300px;
+    height: 400px;
+    border: 1px solid darkred;
+}
