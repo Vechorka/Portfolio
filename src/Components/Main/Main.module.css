@@ -3,14 +3,7 @@
     background-color: rosybrown;
 }
 
-.container {
-    margin: 0 auto;
-    border: 1px solid black;
-    height: 100%;
-    width: 80%;
-    display: flex;
-    align-items: center;
-}
+
 
 .aboutMe {
     width: 300px;
