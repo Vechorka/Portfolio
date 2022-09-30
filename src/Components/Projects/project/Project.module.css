@@ -1,0 +1,18 @@
+.project {
+    width: 450px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+}
+
+.photo{
+    height: 400px;
+    width: 450px;
+    background-color: lightblue;
+}
+
+.description {
+ background-color: gray;
+}
