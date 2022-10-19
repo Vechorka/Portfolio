@@ -4,9 +4,15 @@ import styleContainer from '../../common/styles/Container.module.css'
 
 
 export const Footer = () => {
-    return <div className={classes.skillsBlock}>
-        <div className={`${styleContainer.container} ${classes.skillsContainer}`}>
+    return <div className={classes.footerBlock}>
+        <div className={`${styleContainer.container} ${classes.footerContainer}`}>
             <h2 className={classes.title}>Dmytro Vechorka</h2>
+            <div className={classes.links}>
+                <span className={classes.link}></span>
+                <span className={classes.link}></span>
+                <span className={classes.link}></span>
+                <span className={classes.link}></span>
+            </div>
         </div>
     </div>
 }
