@@ -7,9 +7,9 @@ export const Main = () => {
     return <div className={classes.main}>
         <div className={styleContainer.container}>
             <div className={classes.aboutMe}>
-                <span>Hi There</span>
-                <h1>I am Dmytro Vechorka</h1>
-                <p>Fronted Developer</p>
+                <h5>Hi, I'm</h5>
+                <h3>Dmytro Vechorka</h3>
+                <h1>Fronted Developer</h1>
             </div>
             <div className={classes.photo}></div>
         </div>

@@ -1,6 +1,5 @@
 .footerBlock{
     height: 200px;
-    background-color: mediumvioletred;
 }
 
 .footerContainer {
@@ -18,7 +17,6 @@
 }
 
 .link{
-    background-color: gray;
     width: 20px;
     height: 20px;
 }

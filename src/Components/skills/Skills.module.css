@@ -1,6 +1,5 @@
 .skillsBlock{
     height: 100vh;
-    background-color: aquamarine;
 }
 
 .skillsContainer {
@@ -10,12 +9,10 @@
 }
 
 .title {
-    background-color: azure;
 
 }
 
 .skills {
-    border: 1px solid black;
     width: 100%;
     height: 50%;
     display: flex;

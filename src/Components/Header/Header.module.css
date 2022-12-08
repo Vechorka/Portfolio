@@ -1,6 +1,5 @@
 .header {
     height: 80px;
-    background: lightskyblue;
     display: flex;
     justify-content: flex-end;
 }

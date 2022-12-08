@@ -1,13 +1,12 @@
 .main {
     height: 100vh;
-    background-color: rosybrown;
 }
 
-
-
 .aboutMe {
-    width: 300px;
-    border: 1px solid red;
+    width: 500px;
+    font-size: 2rem;
+    font-weight: 900;
+    margin: 0;
 }
 
 .photo {
